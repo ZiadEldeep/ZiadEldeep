@@ -1,8 +1,11 @@
 # Hi there, I'm Ziad Eldeep 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/ZiadEldeep?label=Followers&style=social)](https://github.com/ZiadEldeep)
-[![Profile views](https://komarev.com/ghpvc/?username=ZiadEldeep&color=blueviolet)](https://github.com/ZiadEldeep)
+![Profile views](https://komarev.com/ghpvc/?username=ZiadEldeep&label=Profile%20views&color=0e75b6&style=flat)
 
+## 📊 GitHub Stats
+![Ziad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZiadEldeep&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadEldeep&layout=compact&theme=radical)
 ## 🚀 About Me
 I’m Ziad, a Web Development Software Engineer with expertise in both **front-end** and **back-end** development. I am passionate about building professional, responsive web applications and continuously improving my skills.
 
