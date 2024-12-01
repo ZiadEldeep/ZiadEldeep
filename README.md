@@ -22,10 +22,7 @@ I’m Ziad, a Web Development Software Engineer with expertise in both **front-e
 
 ---
 
-## 📊 GitHub Stats
-![Ziad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZiadEldeep&show_icons=true&theme=radical)
 
----
 
 ## 🌐 Connect with Me
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ziad-eldeep-21914a216/)
