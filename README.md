@@ -11,7 +11,7 @@
 
 - 📚 I’m actively looking for **exciting projects or collaborations!**
 
-- 📧 How to reach me **ziadeldeep.dev@gmail.com**
+- 📧 How to reach me **ziaeldeep84@gmail.com**
 
 - ⚡ Fun fact **I enjoy learning and implementing the latest web technologies.**
 
@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ziadeldeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziadeldeep" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ziad-eldeep-21914a216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziadeldeep" height="30" width="40" /></a>
 <a href="https://github.com/ZiadEldeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ziadeldeep" height="30" width="40" /></a>
 </p>
 
