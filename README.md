@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ziad-eldeep-21914a216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziadeldeep" height="30" width="40" /></a>
 <a href="https://github.com/ZiadEldeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ziadeldeep" height="30" width="40" /></a>
-<a href="https://twitter.com/ziadeldeep" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_as_of_2021.svg" alt="ziadeldeep" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/ziadeldeep" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_as_of_2021.svg" alt="ziadeldeep" height="30" width="40" /></a> -->
 </p>
 
 ---
