@@ -37,12 +37,12 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
+<!-- <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>  -->
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Python-blue?logo=python" alt="python" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Java-red?logo=java" alt="java" width="40" height="40"/> </a>
 <a href="https://cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B" alt="c++" width="40" height="40"/> </a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/GraphQL_Logo.svg" alt="graphql" width="40" height="40"/> </a>
+<!-- <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/GraphQL_Logo.svg" alt="graphql" width="40" height="40"/> </a> -->
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ziadeldeep&show_icons=true&locale=en&layout=compact" alt="ziadeldeep" /></p>
@@ -62,7 +62,6 @@ I’m Ziad, a **Web Development Software Engineer** with expertise in both **fro
 
 ## 🌐 Connect with Me
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ziad-eldeep-21914a216/)
-- [![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=twitter)](https://twitter.com/ziadeldeep)
 - [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/ZiadEldeep)
 
 ## 📚 What I am currently working on:
